@@ -1,0 +1,3 @@
+this project implements a python program that calculates the total amount of rainwater that can be retained between walls represented by a list of non-negative integers. the main function, `rain(walls)`, analyzes the wall heights and returns the total number of square units of water that can be trapped between them, following pep 8 standards with no external module imports.
+
+the program is executable and fully documented, with the required shebang (`#!/usr/bin/python3`) at the top of each file. users can clone the repository, make the script executable, and run it directly to test different wall configurations and view the calculated rainwater retention.
